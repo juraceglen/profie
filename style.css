@@ -99,11 +99,4 @@
     display: flex;
     justify-content: space-evenly;
   }
-  .avatar {
-    display: block;
-    border-radius: 200px;
-    height: 10vh;
-    width: auto;
-    margin-bottom: 40px;
-  }
 }
