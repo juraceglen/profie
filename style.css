@@ -56,10 +56,10 @@
   }
   .button_container {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
   }
   .button {
-    width: 175px;
+    width: 150px;
     padding: 25px;
     display: block;
     border-radius: 50px;
